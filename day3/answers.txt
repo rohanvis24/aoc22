@@ -1,0 +1,5 @@
+Part 1: Priorities of duplicates in the same line?
+8493
+
+Part 2: Priorities of duplicates within groups of 3 lines?
+2552
