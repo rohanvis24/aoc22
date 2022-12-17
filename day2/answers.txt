@@ -1,0 +1,5 @@
+Part 1: Total score?
+12740
+
+Part 2: New method total score?
+11980
